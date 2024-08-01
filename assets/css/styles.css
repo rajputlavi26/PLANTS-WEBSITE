@@ -218,8 +218,8 @@ the website, in dark theme
 }
 
 .nav__logo-icon{
-  font-size: 1.15rem;
   color: var(--first-color);
+  width: 2.5rem;
 }
 
 .nav__logo:hover{
